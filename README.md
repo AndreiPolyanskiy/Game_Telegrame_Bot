@@ -1,2 +1,7 @@
-# Game_Telegrame_Bot
-Game_Telegrame_Bot
+# Games:
+
+1. Конфеты - file "new_bot.py"
+2. Быки и коровы - file "game.py"
+
+# Completed:
+Полянский Андрей
